@@ -11,7 +11,7 @@ O objetivo é implementar três operações essenciais: depósito, saque e extra
 <details>
     <summary>Saque</summary>
         O sistema deve permitir 3 saques diários no valor máximo de R$500,00 por saque.
-        Caso o usuário não tenha saldo em conta, o sistema deve exibir uma mensagem informando que não será possível efetuar o saque por falta de saldo.
+        Caso o usuário não tenha saldo em conta o sistema deve exibir uma mensagem informando que não será possível efetuar o saque por falta de saldo.
 </details>
 <details>
     <summary>Extrato</summary>
